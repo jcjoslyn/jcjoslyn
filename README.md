@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jcjoslyn, a fullstack developer currently working in JavaScript, Python and C#
+- 👀 I’m interested in generative and interactive art, game development and improving life through the application of technology.
+- 🌱 I’m currently learning about algorithmic botany, Tone.js and Chinese Divinity (such as the Tao and I Ching)
+- 📫 How to reach me:
+-   email: mockillu@gmail.com
